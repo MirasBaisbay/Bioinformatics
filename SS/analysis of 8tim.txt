@@ -1,0 +1,4 @@
+Secondary Structure Analysis for 8tim
+Helix content: 46.76%
+Sheet content: 15.79%
+Loop content: 37.45%

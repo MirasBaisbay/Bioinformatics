@@ -1,0 +1,4 @@
+Secondary Structure Analysis for 1p4t
+Helix content:  0.00%
+Sheet content: 76.92%
+Loop content: 23.08%

@@ -1,0 +1,4 @@
+Secondary Structure Analysis for 6kk9
+Helix content:  0.00%
+Sheet content: 55.97%
+Loop content: 44.03%

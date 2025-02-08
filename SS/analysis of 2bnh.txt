@@ -1,0 +1,4 @@
+Secondary Structure Analysis for 2bnh
+Helix content: 44.30%
+Sheet content: 10.53%
+Loop content: 45.18%

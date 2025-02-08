@@ -1,0 +1,4 @@
+Secondary Structure Analysis for 5b61
+Helix content: 14.75%
+Sheet content: 50.48%
+Loop content: 34.77%
